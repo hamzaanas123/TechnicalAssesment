@@ -39,7 +39,7 @@ Features include:
 ## How to Run the App
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   https://github.com/hamzaanas123/TechnicalAssesment
 2. flutter pub get
 3. flutter run
 
@@ -49,4 +49,5 @@ https://dummyjson.com/products
 
 ## ScreenShots
 Added in ScreenShots Folder
+https://github.com/hamzaanas123/TechnicalAssesment/tree/main/ScreenShots
 
